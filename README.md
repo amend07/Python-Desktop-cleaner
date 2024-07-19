@@ -1,4 +1,5 @@
 **Desktop Cleaner**
+
 Desktop Cleaner is a Python-based automated tool designed to help you organize your desktop files efficiently. This script categorizes files based on their extensions, creates corresponding folders, and moves the files into these folders. For instance, if there are PDF files on your desktop, it will create a "PDF" folder and move all PDF files into this folder.
 
 **Features**
